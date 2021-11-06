@@ -1,0 +1,15 @@
+.login-form{
+    display: flex;
+    justify-content: center;
+    background-color: lightblue;
+    padding: 100px;
+    margin-top: 70px;
+}
+
+.register{
+    text-decoration: none;
+}
+
+.fab{
+    color: rgb(218, 106, 32);
+}

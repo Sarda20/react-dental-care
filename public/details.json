@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "IMPLANTS",
+        "img": "https://i.ibb.co/vkhJ2xL/photo-1588776814546-daab30f310ce-1.jpg",
+        "cost": 5000,
+        "days": 5,
+        "description": "Dental implants are replacement tooth roots. Implants provide a strong foundation for fixed or removable replacement teeth that are made to match your natural teeth and makes it beautiful."
+    },
+    {
+        "id": 2,
+        "name": "COSMETIC DENTISTRY",
+        "img": "https://i.ibb.co/BgDZBWj/woman-patient-dentist-1303-9357-1.jpg",
+        "cost": 9000,
+        "days": 7,
+        "description": "Cosmetic dentistry addresses aesthetic issues that can make you feel self-conscious like stained, chipped and gapped teeth. Cosmetic dentists perform treatments to: Remove stains and lighten teeth."
+    },
+    {
+        "id": 3,
+        "name": "DENTAL BRIDGES",
+        "img": "https://i.ibb.co/h1PCgdS/woman-patient-dentist-1303-9355-1.jpg",
+        "cost": 3500,
+        "days": 3,
+        "description": "A dental bridge is a false tooth (called a pontic) that is held in place by the abutment teeth on either side of the gap. They’re made from porcelain to aesthetically blend in with your natural teeth."
+    },
+    {
+        "id": 4,
+        "name": "DENTAL CROWNS",
+        "img": "https://i.ibb.co/q1v3QkM/photo-1565090568947-7293970ba471-1.jpg",
+        "cost": 6000,
+        "days": 6,
+        "description": "Dental crowns are caps placed on top of damaged teeth. Crowns are used to protect and restore the shape of your teeth when fillings don’t solve the problem. Dental crowns can be made of metals."
+    },
+    {
+        "id": 5,
+        "name": "INVISALIGN",
+        "img": "https://i.ibb.co/QrndrH5/beautiful-girl-sitting-dentist-s-office-1157-21009-1.jpg",
+        "cost": 7500,
+        "days": 9,
+        "description": "Invisalign is a straightening dental treatment that consists of a series of clear, plastic aligners that gradually straighten your teeth. These fit snugly over your teeth and are virtually invisible."
+    },
+    {
+        "id": 6,
+        "name": "VENEERS",
+        "img": "https://i.ibb.co/D96b52r/young-woman-receiving-dental-check-up-1098-1512-1.jpg",
+        "cost": 4000,
+        "days": 3,
+        "description": "Veneers are thin coverings that are placed over the front (visible) part of the tooth. They look like natural teeth. Veneers can be used to correct a wide range of dental issues such as: teeth that are stained"
+    },
+    {
+        "id": 7,
+        "name": "TEETH WHITENING",
+        "img": "https://i.ibb.co/StGpthj/beautiful-girl-sitting-dentist-s-office-1157-21012-1.jpg",
+        "cost": 2000,
+        "days": 2,
+        "description": "Everyone notices a bright, white, glowing smile. And everyone notices how confident you feel when you have that beautiful smile. That’s why we utilize long-lasting Teeth Whitening procedure."
+    },
+    {
+        "id": 8,
+        "name": "ORTHODONTICS",
+        "img": "https://i.ibb.co/cttWy80/photo-1606811971618-4486d14f3f99-1.jpg",
+        "cost": 7500,
+        "days": 8,
+        "description": "Orthodontics is a branch of dentistry that treats malocclusion, a condition in which the teeth are not correctly positioned when the mouth is closed. An orthodontist specializes in making the teeth straight."
+    }
+]

@@ -1,0 +1,17 @@
+#container{
+    background-color: rgb(7, 180, 180);
+    padding: 30px;
+    margin-bottom: 50px;
+}
+
+#title{
+    font-weight: bold;
+    padding: 30px;
+    color: white;
+}
+
+#text-container{
+    text-align: justify;
+    padding-top: 80px;
+    color: white;
+}
